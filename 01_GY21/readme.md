@@ -1,6 +1,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ## General info 
+* ESP32
 * Get Temperature from GY21 Sensor
 * Display values on OLED SSD1306
 
