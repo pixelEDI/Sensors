@@ -1,5 +1,7 @@
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
 ## Sensors
-I used a lot of different sensors/componentes for my arduino projects. Here I collect all of them. 
+* A collection of sensors/components that I implemented in my arduino projects.
+* ESP32 / ESP8266
+* Sketches and Wiring
 
